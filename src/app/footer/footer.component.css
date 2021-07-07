@@ -1,0 +1,13 @@
+.footer{
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  line-height: 60px;
+  background-color: rgba(60,55,71,1);
+}
+.unlisted{
+  list-style-type: none !important;
+}
+.logoFooter{
+  filter: brightness(0.5);
+}
