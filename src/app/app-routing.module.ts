@@ -18,7 +18,7 @@ const routes: Routes = [
   {path: "workspace", component: WorkspaceComponent},
   {path: "login", component: LoginComponent},
   {path: "register", component: RegisterComponent},
-  {path: "*", component: NotfoundComponent}
+  {path: "**", component: NotfoundComponent}
 
 ];
 
